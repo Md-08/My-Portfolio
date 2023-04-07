@@ -337,6 +337,7 @@ section {
         position: relative;
         padding-left: 3rem;
         border-left: 1px solid var(--color-grey-5);
+        
         .tl-icon {
             position: absolute;
             left: -27px;
@@ -358,6 +359,8 @@ section {
             font-size: .8rem;
             text-transform: uppercase;
             font-weight: 500;
+            
+            
         }
         h5 {
             padding: 1rem 0;
