@@ -1003,7 +1003,8 @@ section {
     border: 1px solid var(--color-secondary);
     box-shadow: 1px 4px 15px rgba(0,0,0,.32);
 }
-
+.splunk {
+  background-image: url("https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/splunk/splunk-original-wordmark.svg"); }
 .c {
   background-image: url("https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg");
 }
